@@ -1,7 +1,9 @@
 body {
   font-family: Arial;
   padding: 20px;
-  background: #f1f1f1;
+  background-image: url(images/green_pattern.png);
+  background-repeat: repeat;
+  background-size: 300px 300px;
 }
 
 /* Header/Blog Title */
@@ -9,7 +11,7 @@ body {
   padding: 30px;
   font-size: 40px;
   text-align: center;
-  background: white;
+  background-color: #DCDCDC;
 }
 
 /* Create some columns: Thanks to W3Schools.com */
@@ -34,7 +36,7 @@ img {
 
 /* Card affects */
 .card {
-  background-color: white;
+  background-color: #DCDCDC;
   padding: 20px;
   margin-top: 20px;
 }
