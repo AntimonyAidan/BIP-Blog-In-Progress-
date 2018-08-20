@@ -26,6 +26,12 @@ body {
   padding-left: 20px;
 }
 
+/* Image class */
+img {
+  width: 30%;
+  padding: 20px;
+}
+
 /* Card affects */
 .card {
   background-color: white;
